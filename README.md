@@ -1,5 +1,5 @@
 
-# AMCAT Salary Analysis
+# AMCAT  Analysis
 
 ## Overview
 This project performs exploratory data analysis (EDA) on the AMCAT dataset to understand the salary trends, specializations, and skill sets of fresh graduates in various roles. The main focus is on analyzing the relationship between the claimed salary and the actual average salary for selected job roles.
