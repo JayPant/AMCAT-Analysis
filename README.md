@@ -1,6 +1,4 @@
-Here’s a sample README file for your analysis project that you can upload to GitHub:
 
-```markdown
 # AMCAT Salary Analysis
 
 ## Overview
@@ -63,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thank you to the creators of the AMCAT dataset for providing the data for analysis.
 - Special thanks to the developers of the Python libraries used in this analysis.
 
-```
+
 
 ### Instructions for Use
 1. **Edit Links**: Be sure to replace `yourusername` with your actual GitHub username in the clone command.
